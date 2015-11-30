@@ -1,0 +1,2 @@
+Para ejecutar sin problemas el proyecto en NetBeans, se debe resolver la referencia a la libreria y cargar el achivo lpsolve55.jar.
+Tambien se debe agregar en la ruta C:\Windows\system32 los  .dll de esta carpeta de acuerdo al windows instalado (64 o 32 bits)
